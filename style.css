@@ -61,6 +61,9 @@ img {
     border-radius: 15%;
     height:max-content;
 }
+.test {
+    width: 300px;
+}
 h1 {
     color: #6497b1;
 }
